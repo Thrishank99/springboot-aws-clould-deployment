@@ -10,3 +10,4 @@ phases:
 artifacts:
    files:
     - target/springbooot-aws-clould.jar
+   discard-paths: yes
