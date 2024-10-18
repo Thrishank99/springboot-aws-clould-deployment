@@ -11,4 +11,3 @@ artifacts:
   files:
     - target/springboot-aws-clould.jar
   discard-paths: yes
-		
