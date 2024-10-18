@@ -8,7 +8,5 @@ phases:
     commands:
       - echo Build completed successfully
 artifacts:
-  files: 
-   - build/libs/*.jar
-  discard-paths: yes
-  
+   files:
+    - target/springbooot-aws-clould.jar
